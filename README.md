@@ -7,7 +7,7 @@ A [live demo of the finished project](https://fsa-secret-tunnel.netlify.app/) is
 
 ## Instructions
 
-Before you start, read the documentation of [this practice API]().
+Before you start, read the documentation of [this practice API](https://fsa-jwt-practice.herokuapp.com).
 
 ### Register the user
 
